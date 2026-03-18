@@ -1,6 +1,7 @@
 # 알고리즘 문제 풀이
 > Platform: 백준 & 프로그래머스 <p>
 > Language: Python, Java <p>
+> 직접 작성한 velog: https://velog.io/@nano_o/series/Algorithm
 
 <br>
 
