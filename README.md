@@ -25,9 +25,9 @@
 ```java
 Deque<Integer> stack = new ArrayDeque<>();
 ```
-- 스택: `push()`, `pop()`, `peek()`
-- 큐: `offer()`, `poll()`, `peek()`
-- 덱: `addFirst()/addLast()`, `removeFirst(), removeLast()`, `peekFirst(), peekLast()`
+- **스택**: `push()`, `pop()`, `peek()`
+- **큐**: `offer()`, `poll()`, `peek()`
+- **덱**: `addFirst()/addLast()`, `removeFirst(), removeLast()`, `peekFirst(), peekLast()`
 
 <br>
 
@@ -43,6 +43,6 @@ PriorityQueue<Integer> maxPq = new PriorityQueue<>(Collections.reverseOrder());
 
 <br>
 
-### `LinkedList`** vs `ArrayList`
+### `LinkedList` vs `ArrayList`
 삽입 및 수정이 용이, 조회가 용이
 
