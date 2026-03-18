@@ -15,3 +15,38 @@
 ## [week_3]_3/19
 - 자료구조 Part1 (스택, 큐, 덱, 연결리스트)
 
+<br>
+
+---
+
+<br>
+
+### 스택
+```java
+Deque<Integer> stack = new ArrayDeque<>();
+```
+- `push()`, `pop()`, `peek()`
+
+<br>
+
+### 큐
+```java
+Deque<Integer> queue = new ArrayDeque<>();
+```
+- `offer()`, `poll()`, `peek()`
+
+<br>
+
+### 우선순위 큐
+```java
+// 최소 힙 (기본)
+PriorityQueue<Integer> minPq = new PriorityQueue<>(); 
+
+// 최대 힙
+PriorityQueue<Integer> maxPq = new PriorityQueue<>(Collections.reverseOrder()); 
+```
+- `offer()`, `poll()`, `peek()`
+
+<br>
+
+
